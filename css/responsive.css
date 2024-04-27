@@ -162,8 +162,8 @@
     }
 
     .tamañocarta {
-        height: 72px;
-        line-height: 48px;
+        height: 80px;
+        line-height: 56px; 
     }
 }
 
@@ -189,8 +189,8 @@
     }
 
     .tamañocarta {
-        height: 52px;
-        line-height: 34px;
+        height: 58px;
+        line-height: 40px;
     }
 
     .elguapo h3 {
@@ -209,15 +209,15 @@
         text-align: start;
         margin: 0;
         min-height: 70px;
-        min-width: 150px; 
-        top: -70%;
+        min-width: 220px; 
+        top: -90%;
         left: 50%;
         transform: translate(-50%, -50%);
         background-color: rgba(0, 0, 0, 0.8); 
         color: white;
         padding: 0.5rem 1rem;
         border-radius: 5px;
-        font-size: 1.5rem;
+        font-size: 2rem;
         z-index: 1; 
     }
 
