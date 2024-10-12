@@ -76,7 +76,7 @@ toggle_idioma.addEventListener('change', (event) => {
         contact.innerHTML = 'Contact';
         idioma_toggle.innerHTML = "ES<i class='bx bx-chevron-down'></i>"
         contactarme.innerHTML = 'Contact me';
-        curriculum.innerHTML = 'Download CV';
+        curriculum.innerHTML = 'See CV';
 
         //Home
         trabajo.innerHTML = 'Cybersecurity<br>Specialist';
@@ -150,7 +150,7 @@ toggle_idioma.addEventListener('change', (event) => {
         contact.innerHTML = 'Contacto';
         idioma_toggle.innerHTML = "EN<i class='bx bx-chevron-down'></i>"
         contactarme.innerHTML = 'Contactarme';
-        curriculum.innerHTML = 'Descargar CV';
+        curriculum.innerHTML = 'Ver CV';
 
         //Home
         trabajo.innerHTML = 'Especialista en<br>Ciberseguridad';
