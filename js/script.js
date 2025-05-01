@@ -72,14 +72,14 @@ toggle_idioma.addEventListener('change', (event) => {
         //NavBar
         casa.innerHTML = 'About me';
         proyectos.innerHTML = 'Proyects';
-        formation.innerHTML = 'Education';
+        formation.innerHTML = 'Experience';
         contact.innerHTML = 'Contact';
         idioma_toggle.innerHTML = "ES<i class='bx bx-chevron-down'></i>"
         contactarme.innerHTML = 'Contact me';
         curriculum.innerHTML = 'See CV';
 
         //Home
-        trabajo.innerHTML = 'Cybersecurity<br>Specialist';
+        trabajo.innerHTML = 'Programmer<br>Cybersecurity';
         textosobremi.innerHTML = "Hello! I'm Gonzalo, a young man with many interests, eager to learn and showcase my knowledge. I'm constantly learning new technologies and tools to enhance my skills, as well as staying up to date on threats and trends.";
 
         //Skills
@@ -116,11 +116,11 @@ toggle_idioma.addEventListener('change', (event) => {
         atenea.innerHTML = '<img src="imagenes/ateneaingles.png" alt="">'
         phishing.innerHTML = '<img src="imagenes/phishingingles.png" alt="">'
         guitarra.innerHTML = '<img src="imagenes/guitarraingles.png" alt="">'
-        odoo.innerHTML = '<img src="imagenes/odooingles.png" alt="">' 
+        odoo.innerHTML = '<img src="imagenes/odooingles.png" alt="">'
         bbdd.innerHTML = '<img src="imagenes/bbddingles.png" alt="">'
 
         //Formación
-        formacion1.innerHTML = "Education"
+        formacion1.innerHTML = "Experience"
         ciberseguridad2.innerHTML = "Cybersecurity"
         programacion2.innerHTML = "Programming"
         inetexto.innerHTML = "Pentesting certification that covers recognition techniques, enumeration, vulnerability exploitation, privilege escalation and pivoting among others"
@@ -131,6 +131,12 @@ toggle_idioma.addEventListener('change', (event) => {
         damtexto.innerHTML = "Learning to create applications from backend to frontend, improving the user experience."
         robotica.innerHTML = "Robotic course"
         roboticatexto.innerHTML = "Developing programming knowledge, demonstrating my ability to work in a team and organize projects."
+        visavetanio.innerHTML = "2025 - Present";
+        visavet.innerHTML = "Programmer - VISAVET"
+        visavettexto.innerHTML = "Software and secure database development for the management and analysis of scientific information, along with systems administration and comprehensive IT support."
+
+
+
 
         //contacto
         contact1.innerHTML = "Contact"
@@ -146,14 +152,14 @@ toggle_idioma.addEventListener('change', (event) => {
         //NavBar
         casa.innerHTML = 'Sobre mi';
         proyectos.innerHTML = 'Proyectos';
-        formation.innerHTML = 'Formación';
+        formation.innerHTML = 'Experiencia';
         contact.innerHTML = 'Contacto';
         idioma_toggle.innerHTML = "EN<i class='bx bx-chevron-down'></i>"
         contactarme.innerHTML = 'Contactarme';
         curriculum.innerHTML = 'Ver CV';
 
         //Home
-        trabajo.innerHTML = 'Especialista en<br>Ciberseguridad';
+        trabajo.innerHTML = 'Programación</br>Ciberseguridad';
         textosobremi.innerHTML = "¡Hola! Soy Gonzalo, un joven con muchas inquietudes, con ganas de aprender y mostrar mis conocimientos. Estoy constantemente aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades, además de mantenerme al día de amenazas y tendencias.";
 
         //Skills
@@ -162,7 +168,7 @@ toggle_idioma.addEventListener('change', (event) => {
         forense.innerHTML = "Forense"
         blueteam.innerHTML = "Blue Team"
         normativa.innerHTML = "Normativa"
-        produccion.innerHTML = "Puesta en producción segura"
+        produccion.innerHTML = "Desarrollo seguro"
         programacion.innerHTML = "Programación"
         herramientastexto.innerHTML = 'Herramientas';
         hackingtexto.innerHTML = "-Informes de pentest<br>-Kali Linux<br>-Nmap / Netcat<br>-Burp Suite<br>-Metasploit"
@@ -191,11 +197,11 @@ toggle_idioma.addEventListener('change', (event) => {
         atenea.innerHTML = '<img src="imagenes/atenea.png" alt="">'
         phishing.innerHTML = '<img src="imagenes/phishing.png" alt="">'
         guitarra.innerHTML = '<img src="imagenes/guitarra.png" alt="">'
-        odoo.innerHTML = '<img src="imagenes/odoo.png" alt="">' 
+        odoo.innerHTML = '<img src="imagenes/odoo.png" alt="">'
         bbdd.innerHTML = '<img src="imagenes/bbdd.png" alt="">'
 
         //Formación
-        formacion1.innerHTML = "Formación"
+        formacion1.innerHTML = "Experiencia"
         ciberseguridad2.innerHTML = "Ciberseguridad"
         programacion2.innerHTML = "Programación"
         inetexto.innerHTML = "Certificación de pentesting que cubre técnicas de reconocimiento, enumeración, explotación de vulnerabilidades, escalado de privilegios y pivoting entre otras"
@@ -205,7 +211,10 @@ toggle_idioma.addEventListener('change', (event) => {
         dam.innerHTML = "Grado en DAM"
         damtexto.innerHTML = "Aprendiendo a crear aplicaciones desde backend hasta frontend mejorando la experiencia de usuario."
         robotica.innerHTML = "Curso de Robótica"
-        roboticatexto.innerHTML = "Desarrollando conocimientos de programación, demostrando mi capacidad de trabajar en equipo y organizar proyectos."
+        roboticatexto.innerHTML = "Desarrollando conocimientos de programación, demostrando mi capacidad de trabajar en equipo, organizar proyectos y resolver problemas."
+        visavetanio.innerHTML = "2025 - Actualidad";
+        visavet.innerHTML = "Programador - VISAVET"
+        visavettexto.innerHTML = "Desarrollo software y bases de datos seguras para la gestión y análisis de información científica, junto con la administración de sistemas y soporte informático integral."
 
         //contacto
         contact1.innerHTML = "Contacto"
