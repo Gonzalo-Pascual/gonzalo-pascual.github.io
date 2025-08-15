@@ -80,7 +80,7 @@ toggle_idioma.addEventListener('change', (event) => {
 
         //Home
         trabajo.innerHTML = 'Programmer<br>Cybersecurity';
-        textosobremi.innerHTML = "Hello! I'm Gonzalo, a young man with many interests, eager to learn and showcase my knowledge. I'm constantly learning new technologies and tools to enhance my skills, as well as staying up to date on threats and trends.";
+        textosobremi.innerHTML = "Hello! I’m Gonzalo, a professional with a strong interest in continuous learning and development. I am constantly training in new technologies and tools to refine my skills, while staying up to date on relevant threats and industry trends.";
 
         //Skills
         ciberseguridad.innerHTML = "Cybersecurity"
@@ -160,7 +160,7 @@ toggle_idioma.addEventListener('change', (event) => {
 
         //Home
         trabajo.innerHTML = 'Programación</br>Ciberseguridad';
-        textosobremi.innerHTML = "¡Hola! Soy Gonzalo, un joven con muchas inquietudes, con ganas de aprender y mostrar mis conocimientos. Estoy constantemente aprendiendo nuevas tecnologías y herramientas para mejorar mis habilidades, además de mantenerme al día de amenazas y tendencias.";
+        textosobremi.innerHTML = "¡Hola! Soy Gonzalo, una persona con gran interés por el aprendizaje y el desarrollo continuo. Me mantengo en constante formación en nuevas tecnologías y herramientas para perfeccionar mis habilidades, así como actualizado sobre amenazas y tendencias relevantes en el sector.";
 
         //Skills
         ciberseguridad.innerHTML = "Ciberseguridad"
